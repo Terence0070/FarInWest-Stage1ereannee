@@ -25,7 +25,7 @@ Il est très heureux, il ne voulait pas partir sur du WordPress afin de rendre l
 
 Le stage s'est déroulé en distanciel, ce qui a ses avantages (moins de temps perdu occasionné par les allers-retours, le simple confort de travailler chez soi, etc.) et ses inconvénients (risque d'être potentiellement distrait et moins concentré dû fait de son environnement). Si je devais donner un avis simple et rapide, j'ai vraiment apprécié travailler chez moi et cela n'a pas eu d'impact négatif sur ma productivité.
 
-*"Qu'as-tu appris durant ce stage ?"*
+*"Qu'avez-vous appris durant ce stage ?"*
 
 Être exhaustif concernant ce que j'ai pu apprendre est complexe. Mais si on veut garder l'essentiel, on peut simplement dire que j'ai pu découvrir et utiliser Bootstrap qui est effectivement un gain monstre de temps en ce qui concerne la création d'un site "Responsive", la création d'un formulaire de contact avec une protection assez accrue contre les attaques XSS (avec notamment la sanitization et les expressions régulières) ou les spams de bot (utilisation de Google reCaptcha avec un système de clé publique et clé privée).
 
